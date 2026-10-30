@@ -1,0 +1,15 @@
+J1.
+Atvērtu žurnālfailu un pārbaudītu tā struktūru
+Atlasītu kļūdu ierakstus (piem ar apzīmējumu ERROR)
+Iegūtu kļūdu rašanās laikus no katras rindas.
+Sagrupētu kļūdas pa stundām (00:00–23:00).
+Saskaitītu kļūdas katrā stundā.
+Salīdzinātu rezultātus un atrastu stundu ar lielāko kļūdu skaitu.
+Sagatavotu secinājumu, norādot stundu un kļūdu skaitu.
+
+J2.
+PowerShell ļauj viegli atlasīt procesus kas izmanto vairāk nekā 200 MB atmiņas jo tas strādā tieši ar datiem
+nepārveidojot datus
+
+
+
